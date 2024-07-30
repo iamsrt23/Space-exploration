@@ -1,0 +1,37 @@
+body{
+    color:#82a5ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    margin: 0px;
+
+}
+#hero{
+   
+    background-image: url("fantasy-house-moon-illustration.jpg");
+    background-size: cover;
+    margin: 0px auto;
+    padding: 10px 0 40px 0;
+}  
+
+.btn{
+    padding:6px 12px;
+    border:none;
+    font-family: inherit;
+    color:#82a5ca ;
+    font-weight: 800;
+
+    
+}
+
+.underline{
+    border-bottom: 4px solid white;
+    
+}
+
+#logo{
+    width: 100px;
+    
+}
+h1{
+    text-shadow:0px 0px 2px white;
+}
